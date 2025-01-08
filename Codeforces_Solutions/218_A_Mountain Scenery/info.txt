@@ -3,5 +3,5 @@ Problem Name: Mountain Scenery
 Contest ID: 218
 Problem URL: https://codeforces.com/contest/218/problem/A
 Language: C# 8
-Verdict: WRONG_ANSWER
+Verdict: OK
 Submission ID: 296022081
