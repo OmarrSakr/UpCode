@@ -1,0 +1,4 @@
+Problem: Football
+URL: https://codeforces.com/contest/43/submission/293671615
+
+Codeforces doesn't allow scraping directly. Add manually.

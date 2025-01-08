@@ -1,0 +1,4 @@
+Problem: Domino piling
+URL: https://codeforces.com/contest/50/submission/267577862
+
+Codeforces doesn't allow scraping directly. Add manually.

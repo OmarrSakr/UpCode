@@ -1,0 +1,4 @@
+Problem: Alyona and Numbers
+URL: https://codeforces.com/contest/682/submission/294517794
+
+Codeforces doesn't allow scraping directly. Add manually.

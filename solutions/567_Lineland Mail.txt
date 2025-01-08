@@ -1,0 +1,4 @@
+Problem: Lineland Mail
+URL: https://codeforces.com/contest/567/submission/293285881
+
+Codeforces doesn't allow scraping directly. Add manually.

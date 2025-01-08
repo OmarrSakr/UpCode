@@ -1,0 +1,4 @@
+Problem: Dice Tower
+URL: https://codeforces.com/contest/225/submission/294276182
+
+Codeforces doesn't allow scraping directly. Add manually.

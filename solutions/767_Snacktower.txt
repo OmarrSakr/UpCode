@@ -1,0 +1,4 @@
+Problem: Snacktower
+URL: https://codeforces.com/contest/767/submission/293292828
+
+Codeforces doesn't allow scraping directly. Add manually.

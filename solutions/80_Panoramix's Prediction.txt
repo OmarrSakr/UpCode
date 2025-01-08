@@ -1,0 +1,4 @@
+Problem: Panoramix's Prediction
+URL: https://codeforces.com/contest/80/submission/294007874
+
+Codeforces doesn't allow scraping directly. Add manually.

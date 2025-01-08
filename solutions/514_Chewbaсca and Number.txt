@@ -1,0 +1,4 @@
+Problem: Chewbaсca and Number
+URL: https://codeforces.com/contest/514/submission/296360044
+
+Codeforces doesn't allow scraping directly. Add manually.

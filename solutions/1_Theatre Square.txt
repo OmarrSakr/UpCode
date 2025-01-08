@@ -1,0 +1,4 @@
+Problem: Theatre Square
+URL: https://codeforces.com/contest/1/submission/293930707
+
+Codeforces doesn't allow scraping directly. Add manually.

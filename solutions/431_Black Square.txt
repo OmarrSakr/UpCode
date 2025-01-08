@@ -1,0 +1,4 @@
+Problem: Black Square
+URL: https://codeforces.com/contest/431/submission/266581522
+
+Codeforces doesn't allow scraping directly. Add manually.

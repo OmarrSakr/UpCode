@@ -1,0 +1,4 @@
+Problem: King Keykhosrow's Mystery
+URL: https://codeforces.com/contest/2034/submission/294039204
+
+Codeforces doesn't allow scraping directly. Add manually.

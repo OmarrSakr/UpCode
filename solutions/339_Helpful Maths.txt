@@ -1,0 +1,4 @@
+Problem: Helpful Maths
+URL: https://codeforces.com/contest/339/submission/268267238
+
+Codeforces doesn't allow scraping directly. Add manually.

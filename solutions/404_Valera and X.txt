@@ -1,0 +1,4 @@
+Problem: Valera and X
+URL: https://codeforces.com/contest/404/submission/293914186
+
+Codeforces doesn't allow scraping directly. Add manually.

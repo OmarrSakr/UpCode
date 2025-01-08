@@ -1,0 +1,4 @@
+Problem: Colorful Stones (Simplified Edition)
+URL: https://codeforces.com/contest/265/submission/267235932
+
+Codeforces doesn't allow scraping directly. Add manually.

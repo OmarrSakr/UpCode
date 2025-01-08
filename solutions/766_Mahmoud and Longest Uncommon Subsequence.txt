@@ -1,0 +1,4 @@
+Problem: Mahmoud and Longest Uncommon Subsequence
+URL: https://codeforces.com/contest/766/submission/293289289
+
+Codeforces doesn't allow scraping directly. Add manually.

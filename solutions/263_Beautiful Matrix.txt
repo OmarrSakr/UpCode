@@ -1,0 +1,4 @@
+Problem: Beautiful Matrix
+URL: https://codeforces.com/contest/263/submission/266089554
+
+Codeforces doesn't allow scraping directly. Add manually.

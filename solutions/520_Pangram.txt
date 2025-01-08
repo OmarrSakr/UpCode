@@ -1,0 +1,4 @@
+Problem: Pangram
+URL: https://codeforces.com/contest/520/submission/293295512
+
+Codeforces doesn't allow scraping directly. Add manually.

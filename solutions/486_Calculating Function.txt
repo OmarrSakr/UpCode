@@ -1,0 +1,4 @@
+Problem: Calculating Function
+URL: https://codeforces.com/contest/486/submission/293920779
+
+Codeforces doesn't allow scraping directly. Add manually.

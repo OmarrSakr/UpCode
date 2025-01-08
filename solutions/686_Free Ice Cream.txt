@@ -1,0 +1,4 @@
+Problem: Free Ice Cream
+URL: https://codeforces.com/contest/686/submission/267978933
+
+Codeforces doesn't allow scraping directly. Add manually.

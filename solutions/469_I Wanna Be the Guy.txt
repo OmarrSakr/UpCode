@@ -1,0 +1,4 @@
+Problem: I Wanna Be the Guy
+URL: https://codeforces.com/contest/469/submission/293573133
+
+Codeforces doesn't allow scraping directly. Add manually.

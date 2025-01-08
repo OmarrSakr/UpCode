@@ -1,0 +1,4 @@
+Problem: Games
+URL: https://codeforces.com/contest/268/submission/266680501
+
+Codeforces doesn't allow scraping directly. Add manually.

@@ -1,0 +1,4 @@
+Problem: Even Odds
+URL: https://codeforces.com/contest/318/submission/293559758
+
+Codeforces doesn't allow scraping directly. Add manually.

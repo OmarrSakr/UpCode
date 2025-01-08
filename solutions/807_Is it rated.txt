@@ -1,0 +1,4 @@
+Problem: Is it rated?
+URL: https://codeforces.com/contest/807/submission/293574890
+
+Codeforces doesn't allow scraping directly. Add manually.
