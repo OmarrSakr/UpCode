@@ -3,5 +3,5 @@ Problem Name: Shaass and Oskols
 Contest ID: 294
 Problem URL: https://codeforces.com/contest/294/problem/A
 Language: C# 8
-Verdict: WRONG_ANSWER
+Verdict: OK
 Submission ID: 267482269
