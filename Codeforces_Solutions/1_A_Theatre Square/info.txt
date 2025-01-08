@@ -3,5 +3,5 @@ Problem Name: Theatre Square
 Contest ID: 1
 Problem URL: https://codeforces.com/contest/1/problem/A
 Language: C# 8
-Verdict: WRONG_ANSWER
+Verdict: OK
 Submission ID: 293930615
