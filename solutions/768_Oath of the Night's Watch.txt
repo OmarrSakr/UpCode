@@ -1,4 +1,0 @@
-Problem: Oath of the Night's Watch
-URL: https://codeforces.com/contest/768/submission/293293938
-
-Codeforces doesn't allow scraping directly. Add manually.

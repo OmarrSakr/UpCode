@@ -1,4 +1,0 @@
-Problem: Counterexample 
-URL: https://codeforces.com/contest/483/submission/294162023
-
-Codeforces doesn't allow scraping directly. Add manually.

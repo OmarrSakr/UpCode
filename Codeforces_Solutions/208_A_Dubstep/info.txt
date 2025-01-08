@@ -1,0 +1,5 @@
+Problem ID: 208_A
+Problem Name: Dubstep
+Contest ID: 208
+Problem URL: https://codeforces.com/contest/208/problem/A
+Language: C# 8

@@ -1,4 +1,0 @@
-Problem: Kevin and Combination Lock
-URL: https://codeforces.com/contest/2048/submission/297270173
-
-Codeforces doesn't allow scraping directly. Add manually.

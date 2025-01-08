@@ -1,0 +1,7 @@
+Problem ID: 742_A
+Problem Name: Arpa’s hard exam and Mehrdad’s naive cheat
+Contest ID: 742
+Problem URL: https://codeforces.com/contest/742/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293919654

@@ -1,0 +1,7 @@
+Problem ID: 122_B
+Problem Name: Lucky Substring
+Contest ID: 122
+Problem URL: https://codeforces.com/contest/122/problem/B
+Language: C++17 (GCC 7-32)
+Verdict: RUNTIME_ERROR
+Submission ID: 58175203

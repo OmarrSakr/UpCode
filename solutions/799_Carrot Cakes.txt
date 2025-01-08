@@ -1,4 +1,0 @@
-Problem: Carrot Cakes
-URL: https://codeforces.com/contest/799/submission/267866734
-
-Codeforces doesn't allow scraping directly. Add manually.

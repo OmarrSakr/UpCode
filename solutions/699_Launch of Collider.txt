@@ -1,4 +1,0 @@
-Problem: Launch of Collider
-URL: https://codeforces.com/contest/699/submission/296878097
-
-Codeforces doesn't allow scraping directly. Add manually.

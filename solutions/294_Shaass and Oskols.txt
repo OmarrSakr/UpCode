@@ -1,4 +1,0 @@
-Problem: Shaass and Oskols
-URL: https://codeforces.com/contest/294/submission/267483112
-
-Codeforces doesn't allow scraping directly. Add manually.

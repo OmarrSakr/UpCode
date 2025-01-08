@@ -1,4 +1,0 @@
-Problem: Way Too Long Words
-URL: https://codeforces.com/contest/71/submission/267436323
-
-Codeforces doesn't allow scraping directly. Add manually.

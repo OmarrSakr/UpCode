@@ -1,4 +1,0 @@
-Problem: Bear and Big Brother
-URL: https://codeforces.com/contest/791/submission/265931693
-
-Codeforces doesn't allow scraping directly. Add manually.

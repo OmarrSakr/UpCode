@@ -1,4 +1,0 @@
-Problem: Olesya and Rodion
-URL: https://codeforces.com/contest/584/submission/293665346
-
-Codeforces doesn't allow scraping directly. Add manually.

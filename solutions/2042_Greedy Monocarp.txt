@@ -1,4 +1,0 @@
-Problem: Greedy Monocarp
-URL: https://codeforces.com/contest/2042/submission/294445442
-
-Codeforces doesn't allow scraping directly. Add manually.

@@ -1,4 +1,0 @@
-Problem: Buy a Shovel
-URL: https://codeforces.com/contest/732/submission/266850992
-
-Codeforces doesn't allow scraping directly. Add manually.

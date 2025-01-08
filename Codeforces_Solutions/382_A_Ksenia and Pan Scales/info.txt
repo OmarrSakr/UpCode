@@ -1,0 +1,7 @@
+Problem ID: 382_A
+Problem Name: Ksenia and Pan Scales
+Contest ID: 382
+Problem URL: https://codeforces.com/contest/382/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 296496572

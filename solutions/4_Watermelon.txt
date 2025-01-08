@@ -1,4 +1,0 @@
-Problem: Watermelon
-URL: https://codeforces.com/contest/4/submission/267316378
-
-Codeforces doesn't allow scraping directly. Add manually.

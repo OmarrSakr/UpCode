@@ -1,0 +1,7 @@
+Problem ID: 2034_C
+Problem Name: Trapped in the Witch's Labyrinth
+Contest ID: 2034
+Problem URL: https://codeforces.com/contest/2034/problem/C
+Language: C# 8
+Verdict: TIME_LIMIT_EXCEEDED
+Submission ID: 294082212

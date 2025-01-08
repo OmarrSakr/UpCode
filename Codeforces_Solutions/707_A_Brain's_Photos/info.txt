@@ -1,0 +1,5 @@
+Problem ID: 707_A
+Problem Name: Brain's Photos
+Contest ID: 707
+Problem URL: https://codeforces.com/contest/707/problem/A
+Language: C# 8

@@ -1,0 +1,7 @@
+Problem ID: 1201_A
+Problem Name: Important Exam
+Contest ID: 1201
+Problem URL: https://codeforces.com/contest/1201/problem/A
+Language: C++17 (GCC 7-32)
+Verdict: OK
+Submission ID: 58343645

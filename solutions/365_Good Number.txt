@@ -1,4 +1,0 @@
-Problem: Good Number
-URL: https://codeforces.com/contest/365/submission/294262105
-
-Codeforces doesn't allow scraping directly. Add manually.

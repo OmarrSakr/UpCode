@@ -1,0 +1,7 @@
+Problem ID: 1200_C
+Problem Name: Round Corridor
+Contest ID: 1200
+Problem URL: https://codeforces.com/contest/1200/problem/C
+Language: C++17 (GCC 7-32)
+Verdict: WRONG_ANSWER
+Submission ID: 58631844

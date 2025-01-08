@@ -1,0 +1,7 @@
+Problem ID: 2048_C
+Problem Name: Kevin and Binary Strings
+Contest ID: 2048
+Problem URL: https://codeforces.com/contest/2048/problem/C
+Language: C# 8
+Verdict: RUNTIME_ERROR
+Submission ID: 297295668

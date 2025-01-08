@@ -1,0 +1,7 @@
+Problem ID: 785_A
+Problem Name: Anton and Polyhedrons
+Contest ID: 785
+Problem URL: https://codeforces.com/contest/785/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293997154

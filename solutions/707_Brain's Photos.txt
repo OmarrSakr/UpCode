@@ -1,4 +1,0 @@
-Problem: Brain's Photos
-URL: https://codeforces.com/contest/707/submission/293711458
-
-Codeforces doesn't allow scraping directly. Add manually.

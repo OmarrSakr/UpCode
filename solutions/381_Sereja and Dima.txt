@@ -1,4 +1,0 @@
-Problem: Sereja and Dima
-URL: https://codeforces.com/contest/381/submission/266277412
-
-Codeforces doesn't allow scraping directly. Add manually.

@@ -1,4 +1,0 @@
-Problem: Kevin and Permutation
-URL: https://codeforces.com/contest/2048/submission/297289820
-
-Codeforces doesn't allow scraping directly. Add manually.

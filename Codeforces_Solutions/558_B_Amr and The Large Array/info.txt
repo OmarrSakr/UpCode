@@ -1,0 +1,7 @@
+Problem ID: 558_B
+Problem Name: Amr and The Large Array
+Contest ID: 558
+Problem URL: https://codeforces.com/contest/558/problem/B
+Language: C++17 (GCC 7-32)
+Verdict: OK
+Submission ID: 58174417

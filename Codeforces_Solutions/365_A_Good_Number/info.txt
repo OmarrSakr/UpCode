@@ -1,0 +1,5 @@
+Problem ID: 365_A
+Problem Name: Good Number
+Contest ID: 365
+Problem URL: https://codeforces.com/contest/365/problem/A
+Language: C# 8

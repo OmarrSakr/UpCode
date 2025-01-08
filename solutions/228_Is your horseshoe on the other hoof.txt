@@ -1,4 +1,0 @@
-Problem: Is your horseshoe on the other hoof?
-URL: https://codeforces.com/contest/228/submission/267229714
-
-Codeforces doesn't allow scraping directly. Add manually.

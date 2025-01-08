@@ -1,4 +1,0 @@
-Problem: Anton and Danik
-URL: https://codeforces.com/contest/734/submission/265919368
-
-Codeforces doesn't allow scraping directly. Add manually.

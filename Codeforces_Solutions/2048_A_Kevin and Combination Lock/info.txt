@@ -1,0 +1,7 @@
+Problem ID: 2048_A
+Problem Name: Kevin and Combination Lock
+Contest ID: 2048
+Problem URL: https://codeforces.com/contest/2048/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 297270173

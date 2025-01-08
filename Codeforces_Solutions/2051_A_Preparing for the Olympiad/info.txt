@@ -1,0 +1,7 @@
+Problem ID: 2051_A
+Problem Name: Preparing for the Olympiad
+Contest ID: 2051
+Problem URL: https://codeforces.com/contest/2051/problem/A
+Language: C# 8
+Verdict: WRONG_ANSWER
+Submission ID: 297851512

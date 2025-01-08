@@ -1,4 +1,0 @@
-Problem: Magnets
-URL: https://codeforces.com/contest/344/submission/266197331
-
-Codeforces doesn't allow scraping directly. Add manually.

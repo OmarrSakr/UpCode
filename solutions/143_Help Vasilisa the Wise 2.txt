@@ -1,4 +1,0 @@
-Problem: Help Vasilisa the Wise 2
-URL: https://codeforces.com/contest/143/submission/296222049
-
-Codeforces doesn't allow scraping directly. Add manually.

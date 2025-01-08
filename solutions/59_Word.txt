@@ -1,4 +1,0 @@
-Problem: Word
-URL: https://codeforces.com/contest/59/submission/266183852
-
-Codeforces doesn't allow scraping directly. Add manually.

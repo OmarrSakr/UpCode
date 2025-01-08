@@ -1,4 +1,0 @@
-Problem: Team
-URL: https://codeforces.com/contest/231/submission/266079884
-
-Codeforces doesn't allow scraping directly. Add manually.

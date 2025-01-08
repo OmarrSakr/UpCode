@@ -1,4 +1,0 @@
-Problem: Police Recruits
-URL: https://codeforces.com/contest/427/submission/266477484
-
-Codeforces doesn't allow scraping directly. Add manually.

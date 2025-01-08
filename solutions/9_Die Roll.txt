@@ -1,4 +1,0 @@
-Problem: Die Roll
-URL: https://codeforces.com/contest/9/submission/267313216
-
-Codeforces doesn't allow scraping directly. Add manually.

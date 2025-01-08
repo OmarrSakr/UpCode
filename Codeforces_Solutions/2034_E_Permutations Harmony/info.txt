@@ -1,0 +1,7 @@
+Problem ID: 2034_E
+Problem Name: Permutations Harmony
+Contest ID: 2034
+Problem URL: https://codeforces.com/contest/2034/problem/E
+Language: C# 8
+Verdict: WRONG_ANSWER
+Submission ID: 294085348

@@ -1,4 +1,0 @@
-Problem: Stones on the Table
-URL: https://codeforces.com/contest/266/submission/266355069
-
-Codeforces doesn't allow scraping directly. Add manually.

@@ -1,4 +1,0 @@
-Problem: Anton and Letters
-URL: https://codeforces.com/contest/443/submission/267886790
-
-Codeforces doesn't allow scraping directly. Add manually.

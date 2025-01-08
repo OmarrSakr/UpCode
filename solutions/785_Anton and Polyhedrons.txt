@@ -1,4 +1,0 @@
-Problem: Anton and Polyhedrons
-URL: https://codeforces.com/contest/785/submission/293997154
-
-Codeforces doesn't allow scraping directly. Add manually.

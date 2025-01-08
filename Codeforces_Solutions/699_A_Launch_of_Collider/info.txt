@@ -1,0 +1,5 @@
+Problem ID: 699_A
+Problem Name: Launch of Collider
+Contest ID: 699
+Problem URL: https://codeforces.com/contest/699/problem/A
+Language: C# 8

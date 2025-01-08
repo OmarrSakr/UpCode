@@ -1,4 +1,0 @@
-Problem: Arpa’s hard exam and Mehrdad’s naive cheat
-URL: https://codeforces.com/contest/742/submission/293919654
-
-Codeforces doesn't allow scraping directly. Add manually.

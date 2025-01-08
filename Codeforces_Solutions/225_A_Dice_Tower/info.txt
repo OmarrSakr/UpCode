@@ -1,0 +1,5 @@
+Problem ID: 225_A
+Problem Name: Dice Tower
+Contest ID: 225
+Problem URL: https://codeforces.com/contest/225/problem/A
+Language: C# 8

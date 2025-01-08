@@ -1,0 +1,5 @@
+Problem ID: 43_A
+Problem Name: Football
+Contest ID: 43
+Problem URL: https://codeforces.com/contest/43/problem/A
+Language: C# 8

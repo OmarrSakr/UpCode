@@ -1,4 +1,0 @@
-Problem: Night at the Museum
-URL: https://codeforces.com/contest/731/submission/266609959
-
-Codeforces doesn't allow scraping directly. Add manually.

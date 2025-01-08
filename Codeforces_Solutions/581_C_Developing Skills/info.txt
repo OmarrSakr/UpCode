@@ -1,0 +1,7 @@
+Problem ID: 581_C
+Problem Name: Developing Skills
+Contest ID: 581
+Problem URL: https://codeforces.com/contest/581/problem/C
+Language: GNU C11
+Verdict: COMPILATION_ERROR
+Submission ID: 57883131

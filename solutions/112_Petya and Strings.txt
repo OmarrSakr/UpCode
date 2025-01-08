@@ -1,4 +1,0 @@
-Problem: Petya and Strings
-URL: https://codeforces.com/contest/112/submission/266113108
-
-Codeforces doesn't allow scraping directly. Add manually.

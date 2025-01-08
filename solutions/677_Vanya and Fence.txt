@@ -1,4 +1,0 @@
-Problem: Vanya and Fence
-URL: https://codeforces.com/contest/677/submission/265906425
-
-Codeforces doesn't allow scraping directly. Add manually.

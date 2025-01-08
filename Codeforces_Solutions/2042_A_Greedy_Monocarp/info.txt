@@ -1,0 +1,5 @@
+Problem ID: 2042_A
+Problem Name: Greedy Monocarp
+Contest ID: 2042
+Problem URL: https://codeforces.com/contest/2042/problem/A
+Language: C# 8

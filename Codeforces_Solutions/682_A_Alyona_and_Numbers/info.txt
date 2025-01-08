@@ -1,0 +1,5 @@
+Problem ID: 682_A
+Problem Name: Alyona and Numbers
+Contest ID: 682
+Problem URL: https://codeforces.com/contest/682/problem/A
+Language: C# 8

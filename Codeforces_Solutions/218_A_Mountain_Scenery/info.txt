@@ -1,0 +1,5 @@
+Problem ID: 218_A
+Problem Name: Mountain Scenery
+Contest ID: 218
+Problem URL: https://codeforces.com/contest/218/problem/A
+Language: C# 8

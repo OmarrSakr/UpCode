@@ -1,0 +1,5 @@
+Problem ID: 80_A
+Problem Name: Panoramix's Prediction
+Contest ID: 80
+Problem URL: https://codeforces.com/contest/80/problem/A
+Language: C# 8

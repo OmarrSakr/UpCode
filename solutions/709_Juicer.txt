@@ -1,4 +1,0 @@
-Problem: Juicer
-URL: https://codeforces.com/contest/709/submission/267575979
-
-Codeforces doesn't allow scraping directly. Add manually.

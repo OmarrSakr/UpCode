@@ -1,4 +1,0 @@
-Problem: Keyboard
-URL: https://codeforces.com/contest/474/submission/293409656
-
-Codeforces doesn't allow scraping directly. Add manually.

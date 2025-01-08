@@ -1,4 +1,0 @@
-Problem: Boy or Girl
-URL: https://codeforces.com/contest/236/submission/266115492
-
-Codeforces doesn't allow scraping directly. Add manually.
