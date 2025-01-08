@@ -3,5 +3,5 @@ Problem Name: Black Square
 Contest ID: 431
 Problem URL: https://codeforces.com/contest/431/problem/A
 Language: C# 8
-Verdict: RUNTIME_ERROR
+Verdict: OK
 Submission ID: 266580894
