@@ -3,5 +3,5 @@ Problem Name: Sereja and Dima
 Contest ID: 381
 Problem URL: https://codeforces.com/contest/381/problem/A
 Language: C# 8
-Verdict: WRONG_ANSWER
+Verdict: OK
 Submission ID: 266275242
