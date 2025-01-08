@@ -3,5 +3,5 @@ Problem Name: Dice Tower
 Contest ID: 225
 Problem URL: https://codeforces.com/contest/225/problem/A
 Language: C# 8
-Verdict: WRONG_ANSWER
+Verdict: OK
 Submission ID: 294275711
