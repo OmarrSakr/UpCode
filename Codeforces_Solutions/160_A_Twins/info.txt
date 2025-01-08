@@ -3,5 +3,5 @@ Problem Name: Twins
 Contest ID: 160
 Problem URL: https://codeforces.com/contest/160/problem/A
 Language: C# 8
-Verdict: WRONG_ANSWER
+Verdict: OK
 Submission ID: 293403547
