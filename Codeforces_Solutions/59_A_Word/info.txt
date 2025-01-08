@@ -1,0 +1,7 @@
+Problem ID: 59_A
+Problem Name: Word
+Contest ID: 59
+Problem URL: https://codeforces.com/contest/59/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266183852

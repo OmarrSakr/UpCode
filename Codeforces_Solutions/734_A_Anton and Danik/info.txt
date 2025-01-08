@@ -1,0 +1,7 @@
+Problem ID: 734_A
+Problem Name: Anton and Danik
+Contest ID: 734
+Problem URL: https://codeforces.com/contest/734/problem/A
+Language: C# 8
+Verdict: RUNTIME_ERROR
+Submission ID: 265911470

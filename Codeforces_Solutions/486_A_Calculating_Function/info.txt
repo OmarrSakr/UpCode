@@ -1,5 +1,0 @@
-Problem ID: 486_A
-Problem Name: Calculating Function
-Contest ID: 486
-Problem URL: https://codeforces.com/contest/486/problem/A
-Language: C# 8

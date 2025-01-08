@@ -1,5 +1,0 @@
-Problem ID: 483_A
-Problem Name: Counterexample 
-Contest ID: 483
-Problem URL: https://codeforces.com/contest/483/problem/A
-Language: C# 8

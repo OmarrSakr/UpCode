@@ -1,0 +1,7 @@
+Problem ID: 405_A
+Problem Name: Gravity Flip
+Contest ID: 405
+Problem URL: https://codeforces.com/contest/405/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266102384

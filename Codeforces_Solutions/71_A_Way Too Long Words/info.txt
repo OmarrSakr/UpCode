@@ -1,0 +1,7 @@
+Problem ID: 71_A
+Problem Name: Way Too Long Words
+Contest ID: 71
+Problem URL: https://codeforces.com/contest/71/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 267436323

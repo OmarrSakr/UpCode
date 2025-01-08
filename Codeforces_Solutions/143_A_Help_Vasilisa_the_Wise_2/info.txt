@@ -1,5 +1,0 @@
-Problem ID: 143_A
-Problem Name: Help Vasilisa the Wise 2
-Contest ID: 143
-Problem URL: https://codeforces.com/contest/143/problem/A
-Language: C# 8

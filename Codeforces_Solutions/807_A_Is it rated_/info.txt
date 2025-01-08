@@ -1,0 +1,7 @@
+Problem ID: 807_A
+Problem Name: Is it rated?
+Contest ID: 807
+Problem URL: https://codeforces.com/contest/807/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293574890

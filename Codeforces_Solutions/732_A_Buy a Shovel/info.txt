@@ -1,0 +1,7 @@
+Problem ID: 732_A
+Problem Name: Buy a Shovel
+Contest ID: 732
+Problem URL: https://codeforces.com/contest/732/problem/A
+Language: C# 8
+Verdict: WRONG_ANSWER
+Submission ID: 266850592

@@ -1,0 +1,7 @@
+Problem ID: 404_A
+Problem Name: Valera and X
+Contest ID: 404
+Problem URL: https://codeforces.com/contest/404/problem/A
+Language: C# 8
+Verdict: RUNTIME_ERROR
+Submission ID: 293914079

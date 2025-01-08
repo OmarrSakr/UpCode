@@ -1,0 +1,7 @@
+Problem ID: 136_A
+Problem Name: Presents
+Contest ID: 136
+Problem URL: https://codeforces.com/contest/136/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293280533

@@ -1,0 +1,7 @@
+Problem ID: 344_A
+Problem Name: Magnets
+Contest ID: 344
+Problem URL: https://codeforces.com/contest/344/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266197331

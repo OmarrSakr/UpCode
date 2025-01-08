@@ -1,0 +1,7 @@
+Problem ID: 469_A
+Problem Name: I Wanna Be the Guy
+Contest ID: 469
+Problem URL: https://codeforces.com/contest/469/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293573133

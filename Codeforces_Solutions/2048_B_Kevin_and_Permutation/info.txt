@@ -1,5 +1,0 @@
-Problem ID: 2048_B
-Problem Name: Kevin and Permutation
-Contest ID: 2048
-Problem URL: https://codeforces.com/contest/2048/problem/B
-Language: C# 8

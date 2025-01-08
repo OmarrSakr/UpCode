@@ -1,0 +1,7 @@
+Problem ID: 265_A
+Problem Name: Colorful Stones (Simplified Edition)
+Contest ID: 265
+Problem URL: https://codeforces.com/contest/265/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 267235932

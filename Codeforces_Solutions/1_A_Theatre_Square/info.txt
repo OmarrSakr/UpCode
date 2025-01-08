@@ -1,5 +1,0 @@
-Problem ID: 1_A
-Problem Name: Theatre Square
-Contest ID: 1
-Problem URL: https://codeforces.com/contest/1/problem/A
-Language: C# 8

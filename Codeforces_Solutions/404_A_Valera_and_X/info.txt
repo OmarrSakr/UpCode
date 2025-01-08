@@ -1,5 +1,0 @@
-Problem ID: 404_A
-Problem Name: Valera and X
-Contest ID: 404
-Problem URL: https://codeforces.com/contest/404/problem/A
-Language: C# 8

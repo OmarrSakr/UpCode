@@ -1,0 +1,7 @@
+Problem ID: 318_A
+Problem Name: Even Odds
+Contest ID: 318
+Problem URL: https://codeforces.com/contest/318/problem/A
+Language: C# 8
+Verdict: RUNTIME_ERROR
+Submission ID: 293556717

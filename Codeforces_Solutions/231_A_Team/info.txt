@@ -1,0 +1,7 @@
+Problem ID: 231_A
+Problem Name: Team
+Contest ID: 231
+Problem URL: https://codeforces.com/contest/231/problem/A
+Language: C# 8
+Verdict: RUNTIME_ERROR
+Submission ID: 266077197

@@ -1,0 +1,7 @@
+Problem ID: 768_A
+Problem Name: Oath of the Night's Watch
+Contest ID: 768
+Problem URL: https://codeforces.com/contest/768/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293293938

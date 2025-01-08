@@ -1,0 +1,7 @@
+Problem ID: 236_A
+Problem Name: Boy or Girl
+Contest ID: 236
+Problem URL: https://codeforces.com/contest/236/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266115492

@@ -1,5 +1,0 @@
-Problem ID: 584_A
-Problem Name: Olesya and Rodion
-Contest ID: 584
-Problem URL: https://codeforces.com/contest/584/problem/A
-Language: C# 8

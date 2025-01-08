@@ -1,0 +1,7 @@
+Problem ID: 474_A
+Problem Name: Keyboard
+Contest ID: 474
+Problem URL: https://codeforces.com/contest/474/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293409656

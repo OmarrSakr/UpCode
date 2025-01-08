@@ -1,5 +1,0 @@
-Problem ID: 514_A
-Problem Name: Chewbaсca and Number
-Contest ID: 514
-Problem URL: https://codeforces.com/contest/514/problem/A
-Language: C# 8

@@ -1,15 +1,14 @@
 import requests
 import os
 import re
+from bs4 import BeautifulSoup
 
 # اسم المستخدم الخاص بك على Codeforces
 handle = "horse-13"  # غير هذا إلى اسم المستخدم الخاص بك
 
-# URL لجلب الحلول
-url = f"https://codeforces.com/api/user.status?handle={handle}&from=1&count=100"
-
 # عمل طلب للحصول على البيانات
-def get_solutions(url):
+def get_solutions(handle, from_val=1, count=100):
+    url = f"https://codeforces.com/api/user.status?handle={handle}&from={from_val}&count={count}"
     response = requests.get(url)
     return response.json()
 
@@ -21,6 +20,19 @@ def clean_filename(filename):
     filename = re.sub(r'[<>:"/\\|?*]', '_', filename)
     return filename
 
+# دالة لجلب الكود الفعلي من الحل
+def get_submission_code(contest_id, submission_id):
+    submission_url = f"https://codeforces.com/contest/{contest_id}/submission/{submission_id}"
+    response = requests.get(submission_url)
+    if response.status_code == 200:
+        # جلب الكود من صفحة الحل
+        soup = BeautifulSoup(response.text, 'html.parser')
+        code = soup.find('pre', {'id': 'program-source-text'})
+        if code:
+            return code.text
+    return None
+
+# دالة لحفظ الحلول
 def save_solutions(submissions):
     solutions_folder = "Codeforces_Solutions"
     if not os.path.exists(solutions_folder):
@@ -54,30 +66,47 @@ def save_solutions(submissions):
             info_file.write(f"Verdict: {verdict}\n")
             info_file.write(f"Submission ID: {submission_id}\n")
 
+        # جلب الكود الفعلي
+        code = get_submission_code(contest_id, submission_id)
+        if code is None:
+            print(f"لم يتم العثور على الكود للـ submission {submission_id}.")
+            code = "Code not available"
+
         # تحديد الامتداد بناءً على اللغة
         if "C++" in language:
             extension = "cpp"
-            solution_code = submission["programmingLanguage"]
         elif "C#" in language:
             extension = "cs"
-            solution_code = submission["programmingLanguage"]
         elif "Python" in language:
             extension = "py"
-            solution_code = submission["programmingLanguage"]
         elif "Java" in language:
             extension = "java"
-            solution_code = submission["programmingLanguage"]
         else:
             extension = "txt"
-            solution_code = submission["programmingLanguage"]
 
         with open(os.path.join(problem_folder, f"{problem_code}_{cleaned_problem_name}.{extension}"), "w", encoding="utf-8") as solution_file:
-            solution_file.write(solution_code)
+            solution_file.write(code)
 
-# استرجاع الحلول
-data = get_solutions(url)
-if data["status"] == "OK":
-    submissions = data["result"]
-    save_solutions(submissions)
-else:
-    print("Error fetching data!")
+# استرجاع الحلول عبر التكرار
+def fetch_all_solutions(handle):
+    from_val = 1
+    count = 100
+    all_submissions = []
+    
+    while True:
+        data = get_solutions(handle, from_val, count)
+        if data["status"] == "OK":
+            submissions = data["result"]
+            if not submissions:
+                break
+            all_submissions.extend(submissions)
+            from_val += count  # تحديث قيمة from لجلب الصفحة التالية
+        else:
+            print("Error fetching data!")
+            break
+    
+    return all_submissions
+
+# استرجاع جميع الحلول
+submissions = fetch_all_solutions(handle)
+save_solutions(submissions)

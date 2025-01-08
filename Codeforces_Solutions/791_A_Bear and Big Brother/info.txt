@@ -1,0 +1,7 @@
+Problem ID: 791_A
+Problem Name: Bear and Big Brother
+Contest ID: 791
+Problem URL: https://codeforces.com/contest/791/problem/A
+Language: C# 8
+Verdict: WRONG_ANSWER
+Submission ID: 265931137

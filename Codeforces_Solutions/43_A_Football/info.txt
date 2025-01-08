@@ -3,3 +3,5 @@ Problem Name: Football
 Contest ID: 43
 Problem URL: https://codeforces.com/contest/43/problem/A
 Language: C# 8
+Verdict: OK
+Submission ID: 293671615

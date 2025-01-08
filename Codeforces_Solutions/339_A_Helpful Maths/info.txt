@@ -1,0 +1,7 @@
+Problem ID: 339_A
+Problem Name: Helpful Maths
+Contest ID: 339
+Problem URL: https://codeforces.com/contest/339/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 268267238

@@ -1,0 +1,7 @@
+Problem ID: 677_A
+Problem Name: Vanya and Fence
+Contest ID: 677
+Problem URL: https://codeforces.com/contest/677/problem/A
+Language: C# 8
+Verdict: RUNTIME_ERROR
+Submission ID: 265899996

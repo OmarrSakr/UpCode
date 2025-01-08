@@ -1,5 +1,0 @@
-Problem ID: 2034_A
-Problem Name: King Keykhosrow's Mystery
-Contest ID: 2034
-Problem URL: https://codeforces.com/contest/2034/problem/A
-Language: C# 8

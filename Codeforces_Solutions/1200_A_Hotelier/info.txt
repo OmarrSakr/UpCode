@@ -1,7 +1,0 @@
-Problem ID: 1200_A
-Problem Name: Hotelier
-Contest ID: 1200
-Problem URL: https://codeforces.com/contest/1200/problem/A
-Language: C++17 (GCC 7-32)
-Verdict: OK
-Submission ID: 58631194

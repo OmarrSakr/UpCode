@@ -1,0 +1,7 @@
+Problem ID: 268_A
+Problem Name: Games
+Contest ID: 268
+Problem URL: https://codeforces.com/contest/268/problem/A
+Language: C# 8
+Verdict: WRONG_ANSWER
+Submission ID: 266680296

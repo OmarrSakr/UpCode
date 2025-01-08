@@ -1,0 +1,7 @@
+Problem ID: 767_A
+Problem Name: Snacktower
+Contest ID: 767
+Problem URL: https://codeforces.com/contest/767/problem/A
+Language: C# 8
+Verdict: WRONG_ANSWER
+Submission ID: 293292183

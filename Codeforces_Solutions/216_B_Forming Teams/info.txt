@@ -1,0 +1,7 @@
+Problem ID: 216_B
+Problem Name: Forming Teams
+Contest ID: 216
+Problem URL: https://codeforces.com/contest/216/problem/B
+Language: C# 8
+Verdict: WRONG_ANSWER
+Submission ID: 293429084

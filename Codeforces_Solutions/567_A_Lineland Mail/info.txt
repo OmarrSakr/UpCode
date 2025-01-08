@@ -1,0 +1,7 @@
+Problem ID: 567_A
+Problem Name: Lineland Mail
+Contest ID: 567
+Problem URL: https://codeforces.com/contest/567/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293285881

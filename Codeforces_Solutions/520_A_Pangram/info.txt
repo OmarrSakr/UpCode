@@ -1,0 +1,7 @@
+Problem ID: 520_A
+Problem Name: Pangram
+Contest ID: 520
+Problem URL: https://codeforces.com/contest/520/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293295512

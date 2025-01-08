@@ -1,0 +1,7 @@
+Problem ID: 686_A
+Problem Name: Free Ice Cream
+Contest ID: 686
+Problem URL: https://codeforces.com/contest/686/problem/A
+Language: C# 8
+Verdict: RUNTIME_ERROR
+Submission ID: 267974085

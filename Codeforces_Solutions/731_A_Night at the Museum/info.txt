@@ -1,0 +1,7 @@
+Problem ID: 731_A
+Problem Name: Night at the Museum
+Contest ID: 731
+Problem URL: https://codeforces.com/contest/731/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266609959

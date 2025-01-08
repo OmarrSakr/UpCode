@@ -1,0 +1,7 @@
+Problem ID: 266_A
+Problem Name: Stones on the Table
+Contest ID: 266
+Problem URL: https://codeforces.com/contest/266/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266355069

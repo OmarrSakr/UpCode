@@ -1,0 +1,7 @@
+Problem ID: 228_A
+Problem Name: Is your horseshoe on the other hoof?
+Contest ID: 228
+Problem URL: https://codeforces.com/contest/228/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 267229714

@@ -1,0 +1,7 @@
+Problem ID: 770_A
+Problem Name: New Password
+Contest ID: 770
+Problem URL: https://codeforces.com/contest/770/problem/A
+Language: C# 8
+Verdict: RUNTIME_ERROR
+Submission ID: 293244350

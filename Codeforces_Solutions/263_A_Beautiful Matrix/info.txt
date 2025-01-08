@@ -1,0 +1,7 @@
+Problem ID: 263_A
+Problem Name: Beautiful Matrix
+Contest ID: 263
+Problem URL: https://codeforces.com/contest/263/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266089554

@@ -1,0 +1,7 @@
+Problem ID: 427_A
+Problem Name: Police Recruits
+Contest ID: 427
+Problem URL: https://codeforces.com/contest/427/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266477484

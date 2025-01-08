@@ -1,0 +1,7 @@
+Problem ID: 112_A
+Problem Name: Petya and Strings
+Contest ID: 112
+Problem URL: https://codeforces.com/contest/112/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 266113108

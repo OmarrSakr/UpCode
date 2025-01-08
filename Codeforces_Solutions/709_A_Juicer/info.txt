@@ -1,0 +1,7 @@
+Problem ID: 709_A
+Problem Name: Juicer
+Contest ID: 709
+Problem URL: https://codeforces.com/contest/709/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 267575979

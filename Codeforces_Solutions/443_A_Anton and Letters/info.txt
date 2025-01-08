@@ -1,0 +1,7 @@
+Problem ID: 443_A
+Problem Name: Anton and Letters
+Contest ID: 443
+Problem URL: https://codeforces.com/contest/443/problem/A
+Language: C# 8
+Verdict: WRONG_ANSWER
+Submission ID: 267886064

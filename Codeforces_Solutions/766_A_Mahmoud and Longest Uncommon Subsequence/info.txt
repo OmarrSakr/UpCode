@@ -1,0 +1,7 @@
+Problem ID: 766_A
+Problem Name: Mahmoud and Longest Uncommon Subsequence
+Contest ID: 766
+Problem URL: https://codeforces.com/contest/766/problem/A
+Language: C# 8
+Verdict: OK
+Submission ID: 293289289
