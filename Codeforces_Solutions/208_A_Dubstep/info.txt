@@ -3,5 +3,5 @@ Problem Name: Dubstep
 Contest ID: 208
 Problem URL: https://codeforces.com/contest/208/problem/A
 Language: C# 8
-Verdict: WRONG_ANSWER
+Verdict: OK
 Submission ID: 293895908
